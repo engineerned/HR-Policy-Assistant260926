@@ -563,4 +563,3 @@ if question:
                     "sources": []
                 }
             )
-```
